@@ -10,7 +10,7 @@ const {
 
 const users = [
     { id: '23', firstName: 'Bill', age: 20 },
-    { id: '47', firstName: 'Sam', age: 21 },
+    { id: '47', firstName: 'Sam', age: 21 }
 ];
 
 const UserType = new GraphQLObjectType({
